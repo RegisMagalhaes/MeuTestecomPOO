@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
